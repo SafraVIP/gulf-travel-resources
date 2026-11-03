@@ -108,6 +108,10 @@ Gulf families have specific needs that generic travel sites ignore:
 
 ## 🔗 Useful Travel Resources for Gulf Families
 
+### Experience ideas for the Netherlands
+
+- [Bucketlist.nl checklist (Dutch)](https://bucketlist.nl/bucketlist-nederland/checklist) — Free Dutch-language checklist of experience ideas in the Netherlands.
+
 ### Official Visa Application Centers
 - [VFS Global Saudi Arabia](https://www.vfsglobal.com/en/individuals/find-application-centre.html) — Schengen visa applications
 - [UK Visas and Immigration](https://www.gov.uk/apply-uk-visa) — British visa applications
